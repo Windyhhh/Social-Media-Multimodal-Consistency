@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💬 Social-Media-Multimodal-Consistency
+# 社交媒体多模态一致性检测 | Social-Media-Multimodal-Consistency
 
 ### VGG + LSTM image-text consistency detection.
 
